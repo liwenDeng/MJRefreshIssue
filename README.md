@@ -38,3 +38,4 @@ MJRefresh 使用中碰到的问题
                 [self executeRefreshingCallback];
             }];
 ````
+![](https://github.com/liwenDeng/MJRefreshIssue/blob/master/MJRefreshIssue/mjrefresh_fix.gif)
